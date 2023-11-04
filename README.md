@@ -2,7 +2,8 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+![codewars](https://www.codewars.com/users/roki4/badges/large)
+
 <!--
 **roki4/roki4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
