@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### Codewars
-<img src="https://www.codewars.com/users/roki4"></a>
+[<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/roki4/badges/large" />] [codewars]
 
 <!--
 **roki4/roki4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
