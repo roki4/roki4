@@ -2,7 +2,7 @@
 
 <h2>Codewars</h2>
 
-<img align="left" alt="CodeWars" width="100px" src="https://www.codewars.com/users/roki4/badges/large" />
+<img align="left" src="https://www.codewars.com/users/roki4/badges/large" />
 
 <!--
 **roki4/roki4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
