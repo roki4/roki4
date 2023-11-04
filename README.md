@@ -1,6 +1,6 @@
 ### Hi there 👋
-**Codewars
-<h2 src="https://www.codewars.com/users/roki4">Codewars</h2>
+### Codewars
+<a href="https://www.codewars.com/users/roki4"></a>
 
 <img align="left" src="https://www.codewars.com/users/roki4/badges/large" />
 
