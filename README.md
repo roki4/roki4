@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,++my+name+is+Mark!)](https://git.io/typing-svg)
 
-<h3>wow, how many people have been here!</h3>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=My%20Page%20Visitors)
-
+<h4>wow, how many people have been here!</h4>
 
 ### 💻 Codewars:
 
