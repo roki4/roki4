@@ -8,6 +8,8 @@
 🛠 NodeJS Backend Developer 🛠
 </h3>
 
+<hr/>
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/roki4/badges/large)
