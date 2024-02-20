@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Arial&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+my+name+is+Mark!" />
 </h2>
 
-// ### NodeJS Backend Developer
+<h3 align="center">
+NodeJS Backend Developer
+</h3>
 
 ### 💻 Codewars:
 
