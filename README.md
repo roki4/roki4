@@ -3,7 +3,7 @@
 </h2>
 
 <h3 align="center">
-NodeJS Backend Developer
+🛠 NodeJS Backend Developer 🛠
 </h3>
 
 ### 💻 Codewars:
