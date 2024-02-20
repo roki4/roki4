@@ -1,17 +1,3 @@
-# Мой профиль
-
-## Заголовок 1
-
-**{style="color: red;"}**
-
-## Это обычный текст.
-
-**{style="color: blue;"}**
-
-## Заголовок 2
-
-**{style="color: green;"}**
-
 <h2 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello,+my+name+is+Mark!" />
 </h2>
